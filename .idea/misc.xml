@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Poetry (djangoProject)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="e6cfa64e-581d-4202-a862-116ef51b650d" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (djangoProject)" project-jdk-type="Python SDK" />
+</project>
